@@ -1,0 +1,71 @@
+I10_scan19_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I10_scan4_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I11_scan25_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I11_scan3_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I11_scan6_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I12_scan14_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I12_scan7_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I13_scan21_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I13_scan3_3.jpg  file had an error!
+Subscript indices must either be real positive integers or logicals.
+I15_scan23_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I15_scan25_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I16_scan11_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I16_scan24_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I18_scan24_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I18_scan25_3.jpg  file had an error!
+Index exceeds matrix dimensions.
+I18_scan3_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I19_scan19_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I19_scan22_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I19_scan5_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I1_scan3_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I2_scan16_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I2_scan19_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I3_scan24_3.jpg  file had an error!
+Index exceeds matrix dimensions.
+I3_scan4_3.jpg  file had an error!
+Index exceeds matrix dimensions.
+I3_scan5_3.jpg  file had an error!
+Subscript indices must either be real positive integers or logicals.
+I3_scan6_3.jpg  file had an error!
+Subscript indices must either be real positive integers or logicals.
+I3_scan7_3.jpg  file had an error!
+Subscript indices must either be real positive integers or logicals.
+I3_scan8_3.jpg  file had an error!
+Subscript indices must either be real positive integers or logicals.
+I4_scan19_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I4_scan3_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I6_scan14_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I6_scan17_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I7_scan3_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I8_scan20_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+I9_scan12_3.jpg  file had an error!
+There was an error in Dijkstra's algorithm.
+
